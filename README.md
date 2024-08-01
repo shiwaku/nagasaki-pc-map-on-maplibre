@@ -1,3 +1,3 @@
-# nagasaki-point-cloud-map-on-maplibre-gl-js-demo
+# nagasaki-pc-map-on-maplibre
 ## Public Website
-https://shi-works.github.io/nagasaki-point-cloud-map-on-maplibre-gl-js-demo/
+https://shiwaku.github.io/nagasaki-pc-map-on-maplibre/
