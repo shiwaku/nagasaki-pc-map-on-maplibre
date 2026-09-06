@@ -50,7 +50,7 @@ map.on('load', () => {
     type: deck.Tile3DLayer,
     pointSize: 2,
     // 3次元点群データ（3DTiles）ソース
-    data: 'https://xs489works.xsrv.jp/3dtiles/open_nagasaki/nagasaki_station/tileset.json',
+    data: 'https://shi-works.com/3dtiles/open_nagasaki/nagasaki_station/tileset.json',
     loader: Tiles3DLoader
   });
 
